@@ -36,6 +36,7 @@ header {
     border: 1px solid #888888;
     box-shadow: 15px 15px 5px 0 #888888;
     border-radius: 25px;  	
+	background-color: #ffe5ff;
 }
 
 nav {
@@ -115,7 +116,7 @@ footer {
     width: 910px;
     margin: 0;
     padding: 10px;
-    background-color: rgb(255,182,193);
+    background-color: #ffe5ff;
     clear: both;
     color: rgb(255,105,180);
     font-weight: bold;
@@ -131,7 +132,7 @@ footer {
     border-radius: 25px;
 }/* navigation for footer */
 footer a:link {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
